@@ -2,9 +2,10 @@ module.change_code = 1;
 'use strict';
 
 var alexa = require('alexa-app');
+const verifier = require('alexa-verifier');
 var app = new alexa.app('kantsstudent');
 const questions=[
-  "how would you define human beings perception of objects from a philosophical point",
+  "how would you define human beings perception of objects from a philosophical point<break time=\"1s\"/>",
   "You mean time and space",
   "So you say, people are genetically programmed to develop without having to rely on experience. If humans see the things through these tools of understanding, how would they have knowledge of the real world",
   "Then it brings solipsism. The self is the only reality.",
