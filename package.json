@@ -1,7 +1,7 @@
 {
-  "name": "X",
+  "name": "Kants Student",
   "version": "1.0.0",
-  "description": "Lorem ipsulum",
+  "description": "Kant transcendental idealism dialog",
   "main": "server.js",
   "dependencies": {
     "alexa-app-server": "^3.0.1"
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/borantaylan/X.git"
+    "url": "git+https://github.com/borantaylan/KantsStudent.git"
   },
   "keywords": [
     "Alexa",
@@ -23,7 +23,7 @@
   "author": "Boran Taylan BALCI",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/borantaylan/X/issues"
+    "url": "https://github.com/borantaylan/KantsStudent/issues"
   },
-  "homepage": "https://github.com/borantaylan/X#readme"
+  "homepage": "https://github.com/borantaylan/KantsStudent#readme"
 }
