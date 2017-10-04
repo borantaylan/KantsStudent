@@ -5,8 +5,8 @@ var alexa = require('alexa-app');
 const verifier = require('alexa-verifier');
 var app = new alexa.app('kantsstudent');
 const questions=[
-  "how would you define human beings perception of objects from a philosophical point<break time=\"1s\"/>",
-  "You mean time and space<break time=\"1s\"",
+  "how would you define human beings perception of objects from a philosophical point/>",
+  "You mean time and space",
   "So you say, people are genetically programmed to develop without having to rely on experience. If humans see the things through these tools of understanding, how would they have knowledge of the real world",
   "Then it brings solipsism. The self is the only reality.",
   "So, people see the world from a spectacle and this spectacle can not be removed since they are part of the visual equipment. People will receive signals from outside through the apparatus which will distort the signals naturally. But then how humans can know there is really something that is sending signals ?",
