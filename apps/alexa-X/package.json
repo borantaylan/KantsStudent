@@ -1,0 +1,23 @@
+{
+  "name": "X",
+  "version": "1.0.0",
+  "description": "Lorem ipsulum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borantaylan/X.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/borantaylan/X/issues"
+  },
+  "homepage": "https://github.com/borantaylan/X#readme",
+  "dependencies": {
+    "alexa-app": "^4.0.0"
+  },
+  "devDependencies": {}
+}

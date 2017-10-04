@@ -1,0 +1,29 @@
+{
+  "name": "X",
+  "version": "1.0.0",
+  "description": "Lorem ipsulum",
+  "main": "server.js",
+  "dependencies": {
+    "alexa-app-server": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borantaylan/X.git"
+  },
+  "keywords": [
+    "Alexa",
+    "skill",
+    "amazon"
+  ],
+  "author": "Boran Taylan BALCI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/borantaylan/X/issues"
+  },
+  "homepage": "https://github.com/borantaylan/X#readme"
+}
