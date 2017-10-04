@@ -61,7 +61,7 @@ app.intent('Third', {
   response.say(questions[3]).reprompt().shouldEndSession(false);
 
 });
-app.intent('Forth', {
+app.intent('Fourth', {
     "slots": {},
     "utterances": [
       answers[3]
