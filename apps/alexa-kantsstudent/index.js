@@ -10,7 +10,7 @@ const questions=[
   "how do they have the knowledge of the real world then?",
   //"Thanks for the philosophy lesson. Bye!",
   //"Then it brings solipsism. The self is the only reality.",
-  "Yes it was, thank you!"
+  "Yes it was, thank you!",
   "So, people see the world from a spectacle and this spectacle can not be removed since they are part of the visual equipment. People will receive signals from outside through the apparatus which will distort the signals naturally. But then how humans can know there is really something that is sending signals ?",
   "Got it. But last thing, for ages people believed that the earth was the center of the universe till Copernicus had replaced it. Would it mean that the source code is changing?",
   "Thanks for the philosophy lesson. Bye!"
