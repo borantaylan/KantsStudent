@@ -7,8 +7,8 @@ var app = new alexa.app('kantsstudent');
 const questions=[
   "how would you define human beings perception of objects from a philosophical point",
   "You mean time and space <break time=\"1s\"/>",
-  //"If so, how would they have knowledge of the real world",
-  "Thanks for the philosophy lesson. Bye!",
+  "If so, how would they have knowledge of the real world",
+  //"Thanks for the philosophy lesson. Bye!",
   "Then it brings solipsism. The self is the only reality.",
   "So, people see the world from a spectacle and this spectacle can not be removed since they are part of the visual equipment. People will receive signals from outside through the apparatus which will distort the signals naturally. But then how humans can know there is really something that is sending signals ?",
   "Got it. But last thing, for ages people believed that the earth was the center of the universe till Copernicus had replaced it. Would it mean that the source code is changing?",
@@ -50,7 +50,7 @@ app.intent('Second', {
       answers[1]
     ]
 }, function(request, response) {
-  response.say(questions[2]).reprompt().shouldEndSession(true);
+  response.say(questions[2]).reprompt().shouldEndSession(false);
 
 });
 app.intent('Third', {
@@ -59,7 +59,7 @@ app.intent('Third', {
       answers[2]
     ]
 }, function(request, response) {
-  response.say(questions[3]).reprompt().shouldEndSession(true);
+  response.say(questions[3]).reprompt().shouldEndSession(false);
 
 });
 app.intent('Fourth', {
