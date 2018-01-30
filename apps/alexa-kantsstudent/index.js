@@ -9,7 +9,8 @@ const questions=[
   "You mean time and space <break time=\"1s\"/>",
   "how do they have the knowledge of the real world then?",
   //"Thanks for the philosophy lesson. Bye!",
-  "Then it brings solipsism. The self is the only reality.",
+  //"Then it brings solipsism. The self is the only reality.",
+  "Yes it was, thank you!"
   "So, people see the world from a spectacle and this spectacle can not be removed since they are part of the visual equipment. People will receive signals from outside through the apparatus which will distort the signals naturally. But then how humans can know there is really something that is sending signals ?",
   "Got it. But last thing, for ages people believed that the earth was the center of the universe till Copernicus had replaced it. Would it mean that the source code is changing?",
   "Thanks for the philosophy lesson. Bye!"
@@ -17,7 +18,7 @@ const questions=[
 const answers=[
   "I would explain it with Kaants transcendental idealism Things can be explained through prioris which are independent of all particular experiences",
   "Yes but not only Humans understand phenomenas in its relation to time and space but also they have a way to look at things which is called intuitions Kaant called them Concepts and Categories which are prioris that they shape the experiences",
-  "They cant Kaant splits the world as phenomenal which the things appear to senses after mediation through tools of understanding and noumenal which is known as The thing in itself the thing as it really is distinct from how it appears to humans",
+  "They cant Kaant splits the world as phenomenal which the things appear to senses after mediation through tools of understanding and noumenal which is known as The thing in itself the thing as it really is distinct from how it appears to humans I hope the answers were useful Take care",
   "there is a collective subjectivity these collective intuitions in developed state present a system of reasoning which assess an individual is using proper reason",
   "Its true that humans have ideas about things which dont assure that there are sources out there which cause these ideas But science can help people about it Its proven that human ears are incapable of receiving high pitched sounds and human eyes can not see infrared colours but not to forget they are all in phenomenal world",
   "Yes humanbeings understand the phenomenal world in a more sophisticated way with discoveries which enhance the reasoning apparatus they have It is also worth to remember that people like Copernicus have not delivered the last word and noumenal world still can not be known"
@@ -59,7 +60,7 @@ app.intent('Third', {
       answers[2]
     ]
 }, function(request, response) {
-  response.say(questions[3]).reprompt().shouldEndSession(false);
+  response.say(questions[3]).reprompt().shouldEndSession(true);
 
 });
 app.intent('Fourth', {
