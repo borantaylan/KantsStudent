@@ -15,9 +15,9 @@ const questions=[
   "Thanks for the philosophy lesson. Bye!"
 ]
 const answers=[
-  "I would explain it with Kants transcendental idealism Things can be explained through prioris which are independent of all particular experiences",
-  "Yes but not only Its true humans understand phenomenas in its relationship to time and space since they can not imagine a world which has more than three dimensions or they can not understand nonsequantial time also they have a way to look at things which is called Anschauungen intuitions It can be thought as tools of understanding Kant called them Concepts and Categories which are priori that they come before any experience and they shape the experiences",
-  "They cant Kant splits the world as phenomenal which the things appear to senses after mediation through tools of understanding and noumenal which is known as The thing in itself the thing as it really is distinct from how it appears to humans",
+  "I would explain it with Kaants transcendental idealism Things can be explained through prioris which are independent of all particular experiences",
+  "Yes but not only Humans understand phenomenas in its relation to time and space but also they have a way to look at things which is called intuitions Kaant called them Concepts and Categories which are prioris that they shape the experiences",
+  "They cant Kaant splits the world as phenomenal which the things appear to senses after mediation through tools of understanding and noumenal which is known as The thing in itself the thing as it really is distinct from how it appears to humans",
   "there is a collective subjectivity these collective intuitions in developed state present a system of reasoning which assess an individual is using proper reason",
   "Its true that humans have ideas about things which dont assure that there are sources out there which cause these ideas But science can help people about it Its proven that human ears are incapable of receiving high pitched sounds and human eyes can not see infrared colours but not to forget they are all in phenomenal world",
   "Yes humanbeings understand the phenomenal world in a more sophisticated way with discoveries which enhance the reasoning apparatus they have It is also worth to remember that people like Copernicus have not delivered the last word and noumenal world still can not be known"
